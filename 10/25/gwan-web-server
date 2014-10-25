@@ -1,0 +1,3 @@
+http://gwan.ch/
+http://nbonvin.wordpress.com/2011/03/24/serving-small-static-files-which-server-to-use/
+sudo chpst -u gwan:gwan -o 100000 ./gwan
